@@ -1,15 +1,16 @@
 ---
 emoji: 🧢
-title: Getting Started
-date: '2023-02-04 20:00:00'
-author: 남준영
-tags: tutorial
-categories: tutorial
+title: Test
+date: '2021-03-22 23:00:00'
+author: Nam J
+tags: blog test
+categories: 블로그 featured
 ---
 
-## h2 
+### 🦖 GitHub Page로 만들기
 
-test
+Test
 
 ```toc
+
 ```
